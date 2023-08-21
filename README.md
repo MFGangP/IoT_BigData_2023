@@ -26,9 +26,17 @@ IoT 개발자 빅데이터분석 수업
 
 ## 4일차
 - 빅데이터 분석 기초
-    - Matplotlib / Seaborn은 옵션
+    - Pandas 데이터 묶음
+    - DB JOIN, UNION
+
+## 5일차
+- 빅데이터 분석 기초
     - Crawling
         - BeautifulSoup 패스
         - Selenium
 - 빅데이터 분석 실습
-    - 
+    - 크롤링 및 전처리, 분석 및 시각화
+
+
+## 시각화
+    - Matplotlib / Seaborn은 옵션
